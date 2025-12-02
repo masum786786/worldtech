@@ -13,51 +13,43 @@ import { FaArrowUpRightFromSquare } from "react-icons/fa6";
 
 const services = [
   {
-    name: "Conceptualization",
-    description:
-      "Deep analysis and strategic planning to define project goals and scope.",
+    name: "App Development",
+    description: "Building high-performance mobile apps using React Native.",
     icon: FaBrain,
   },
   {
-    name: "DevOps",
-    description:
-      "Streamlining development with CI/CD, automation, and infrastructure as code.",
-    icon: FaCogs,
-  },
-  {
-    name: "High-fidelity design",
-    description:
-      "Creating pixel-perfect interfaces with advanced prototyping and UX principles.",
+    name: "Web Development",
+    description: "Creating fast, responsive, and user-friendly web interfaces.",
     icon: FaPencilRuler,
   },
   {
-    name: "Infrastructure design",
-    description:
-      "Architecting scalable, secure, and resilient cloud and server solutions.",
+    name: "DevOps",
+    description: "Accelerating delivery with CI/CD, automation, and IaC.",
+    icon: FaCogs,
+  },
+  {
+    name: "Infrastructure Design",
+    description: "Designing secure, scalable, and cloud-ready architectures.",
     icon: FaServer,
   },
   {
-    name: "Programming logic",
-    description:
-      "Developing robust, efficient, and well-tested application core logic.",
+    name: "Programming Logic",
+    description: "Writing clean, efficient, and maintainable application logic.",
     icon: FaCode,
   },
   {
     name: "Quality Verification",
-    description:
-      "Comprehensive testing (unit, integration, E2E) to ensure product quality.",
+    description: "Ensuring reliability through unit, integration, and E2E testing.",
     icon: FaCheckCircle,
   },
   {
     name: "Project Management",
-    description:
-      "Ensuring smooth coordination, timely delivery, and alignment with client goals.",
+    description: "Managing timelines, teams, and deliverables effectively.",
     icon: FaProjectDiagram,
   },
   {
     name: "Cybersecurity",
-    description:
-      "Protecting systems and data with proactive defense and risk mitigation strategies.",
+    description: "Securing systems with proactive protection and risk control.",
     icon: FaShieldAlt,
   },
 ];
