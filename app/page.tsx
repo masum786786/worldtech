@@ -19,7 +19,7 @@ export default function Home() {
       {/* <Work/> */}
       <BannerPage/>
       <ExpertisePage/>
-      {/* <VisionPage/> */}
+      <VisionPage/>
       {/* <DottedHR variant="fancy" colorStart="#F97316" colorEnd="#F43F5E" /> */}
       <VisionPage2/>
       <ServiceCard/>

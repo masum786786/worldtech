@@ -40,25 +40,25 @@ export default function Projects() {
     {
       title: 'Saimora',
       description: 'A React Native mobile application developed for a Saudi-based client.',
-      imageUrl: '/app2.jpg',
+      imageUrl: '/saimora.jpg',
       imageAlt: 'Robotic head representing Artificial Intelligence',
     },
     {
       title: 'Dentle Life Line',
       description: 'A static website built to assist dental users with essential services.',
-      imageUrl: '/app3.jpg',
+      imageUrl: '/dental.jpg',
       imageAlt: 'Blue sparkling background representing IoT connectivity',
     },
     {
       title: 'Hajj Umrah',
       description: 'A full system for managing and booking Hajj & Umrah packages.',
-      imageUrl: '/app3.jpg',
+      imageUrl: '/hajj.jpg',
       imageAlt: 'Cubes representing Blockchain technology',
     },
     {
       title: 'Inventix',
       description: 'A Finland-based clean and modern website development.',
-      imageUrl: '/ai.jpg',
+      imageUrl: '/inventix.jpg',
       imageAlt: 'Blue sparkling background representing IoT connectivity',
     },
     {
@@ -79,7 +79,7 @@ export default function Projects() {
     <section className="bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
         <h2 className="text-4xl font-bold text-gray-900 text-center mb-12">
-          Project Deliverd Successfully 
+          Project Deliverd Successfully f
         </h2>
 
         {/* Slider */}

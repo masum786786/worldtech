@@ -10,7 +10,7 @@ export default function VisionPage() {
         {/* --- Left Side: Image --- */}
         <div className="relative w-full h-[400px] md:h-[500px] rounded-2xl overflow-hidden shadow-lg">
           <Image
-            src="/ai.jpg" // replace with your actual image path
+            src="/yours.jpg" // replace with your actual image path
             alt="Creative concept representing innovation and vision"
             layout="fill"
             objectFit="cover"
